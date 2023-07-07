@@ -1,3 +1,5 @@
+<img src="Dhruv-banner.png" width="match-parent">
+
 ### Hi there 👋 My name is Dhruv!
 
 <h2>:fire: My GitHub Stats:</h2>
