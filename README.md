@@ -1,5 +1,13 @@
 ### Hi there 👋 My name is Dhruv!
 
+<h2>:fire: My GitHub Stats:</h2>
+<p align="center">
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=dhruvbatra07&theme=dark&hide_border=true"/>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IshaBansal0408&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaBansal0408&layout=compact&theme=vision-friendly-dark"/> -->
+</p>
+
+
 <!--
 **dhruvbatra07/dhruvbatra07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
